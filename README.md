@@ -23,9 +23,9 @@ The model's performance is evaluated using the following metrics:
  ## Report:
                precision    recall  f1-score   support
 
-   Benign (0)       0.97      0.99      0.98        71
-Malignant (1)       0.98      0.95      0.96        43
+    Benign (0)       0.97      0.99      0.98        71
+    Malignant (1)       0.98      0.95      0.96        43
 
      accuracy                           0.97       114
     macro avg       0.97      0.97      0.97       114
- weighted avg       0.97      0.97      0.97       114
+    weighted avg       0.97      0.97      0.97       114
